@@ -1,0 +1,23 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import './css/variables/allvariables';
+@import './css/mixins/buttons';
+@import './css/mixins/headings';
+@import './css/mixins/circle';
+@import './css/mixins/hero';
+@import './css/extends/allextends'; 
+@import './css/components/Hero';
+@import './css/components/Navbar';
+@import './css/components/Services';
+@import './css/components/Testimonials';
+@import './css/components/Blog';
+@import './css/components/Footer';
+@import './css/components/Aboutus';
+@import './css/components/Contactus';
+@import './css/components/Practice';
+body{
+    margin:0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-color: rgb(206, 206, 206);
+}
